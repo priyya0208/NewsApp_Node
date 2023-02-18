@@ -1,2 +1,2 @@
-# NewsApp_Node
+# App_Node
 Rest API Post and get using node and sql 
