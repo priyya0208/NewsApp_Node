@@ -1,2 +1,2 @@
 # NewsApp_Node
-News Articles using Node JS and Puppeteer
+Rest API Post and get using node and sql 
